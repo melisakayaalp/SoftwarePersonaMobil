@@ -1,6 +1,6 @@
 🛒 Software Persona E-Commerce
 
-Software Persona E-Commerce, Flutter ile geliştirilmiş basit bir e-ticaret uygulamasıdır...
+Software Persona E-Commerce, Flutter ile geliştirilmiş basit bir e-ticaret uygulamasıdır.
 
 Flutter Sürümü
 • Flutter 3.44.6
